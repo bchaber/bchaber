@@ -1,4 +1,7 @@
 ### Hi there 👋
+Bartosz Chaber (ten/tego)
+
+Hard to tell what I do...
 
 <!--
 **bchaber/bchaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
