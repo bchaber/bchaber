@@ -1,7 +1,11 @@
 ### Hi there 👋
 Bartosz Chaber (ten/tego)
 
-Hard to tell what I do...
+Right now I have four main projects on my plate:
+- 👷 *pole* which is a Finite Volume Method Poisson equation solver on structured grids,
+- 👷 *fala* which is a Finite Element Method Maxwell equations solver on structured grids with Whitney (edge) elements,
+- 👷 *iskra* which is a Particle-in-Cell simulator for electric discharges,
+- *hv* which is a Finite Volume Method advection-diffusion-reaction solver for charged "fluids".
 
 <!--
 **bchaber/bchaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👷
 -->
