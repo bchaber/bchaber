@@ -8,7 +8,7 @@ Right now I have four main projects on my plate 🍽️:
 - 👷 *pole* which is a Finite Volume Method Poisson equation solver on structured grids,
 - 👷 *fala* which is a Finite Element Method Maxwell equations solver on structured grids with Whitney (edge) elements,
 - 👷 *iskra* which is a Particle-in-Cell simulator for electric discharges,
-- 👷 *hattivatti* which uses a Lattice Boltzmann method for solving a problem o streamer propatagion.
+- 👷 *hattivatti* which uses a Lattice Boltzmann method for solving a problem o streamer propagation.
 
 <!--
 **bchaber/bchaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
