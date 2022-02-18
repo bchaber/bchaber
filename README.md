@@ -1,6 +1,9 @@
 ### Hi there 👋
 **Bartosz Chaber** (ten/tego 😏)
 
+> I have approximate knowledge of many things.
+_Demon Cat / Adventure Time_
+
 My background is in computer science but at one point in time I found that I am more interested in code *doing* something fun, rather than it *looking* pretty.
 I enjoy writing code that others already wrote. This is my way of learning: by recreating things, improving them, breaking them to pieces and bringing back as a mosaic of my adventures (or mistakes if you prefer).
 
