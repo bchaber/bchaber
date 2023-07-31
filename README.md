@@ -1,4 +1,3 @@
-### Hi there 👋
 **Bartosz Chaber** (ten/tego 😏)
 
 > I have approximate knowledge of many things.
